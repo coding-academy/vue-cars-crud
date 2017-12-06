@@ -1,0 +1,16 @@
+.alert {
+    color:white;
+    padding: 10px;
+    font-size: 1.4em;
+    position: absolute;
+    top:0;
+    right:0;
+    background-color: grey;
+}
+
+.alert-success {
+    background-color: rgb(15, 122, 15);
+}
+.alert-danger {
+    background-color: rgb(122, 11, 11);
+}
